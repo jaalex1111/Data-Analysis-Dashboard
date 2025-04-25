@@ -75,6 +75,7 @@
 	•	Focus marketing and inventory efforts on Chocolate Chip, as it’s clearly the star performer in both revenue and profit.
 
 	•	Consider combining underperforming products with bestsellers to boost their sales.
+ 
 **2.	Expand in High-Revenue Cities:**
 
 	•	Green Bay and Huntington are key markets—explore upselling or new customer acquisition campaigns there.
@@ -96,8 +97,7 @@
 **4.	Customer Retention:**
 
 	•	With 700 customers, analyze repeat vs. new customers. Focus on retention strategies for top-value segments, possibly using loyalty programs.
+ 
 
 
-# Data-Analysis-Dashboard
 
-i developed a comprehensive project in power Bi, creating a dashboard and table to analyse the data. This process involved several stage including data cleaning using power query, data modelling and data visualization.
