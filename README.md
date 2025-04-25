@@ -50,15 +50,13 @@
 
 **3. Product Performance:**
 
-	•	Best Performing by Units & Revenue:
+	•	Best Performing by Unit sold & Revenue:
  
 	•	Chocolate Chip dominates in both units sold and revenue.
  
-        •	Fortune Cookie and Sugar are underperformers
-  
-        •	Profit by Product:
+        •	Fortune Cookie and Sugar cookies are underperformers
  
-	•	Chocolate Chip again leads with $1.01M in profit.
+	•	Chocolate Chip also leads with $1.01M in profit.
  
 	•	Fortune Cookie brings in only $0.08M.
 
@@ -72,34 +70,25 @@
 
 **Recommendations:**
 
-**1.	Double Down on Top Products:**
 
 	•	Focus marketing and inventory efforts on Chocolate Chip, as it’s clearly the star performer in both revenue and profit.
 
 	•	Consider combining underperforming products with bestsellers to boost their sales.
- 
-**2.	Expand in High-Revenue Cities:**
 
-	•	Green Bay and Huntington are key markets—explore upselling or new customer acquisition campaigns there.
+	•	Green Bay and Huntington are key markets— explore upselling or new customer acquisition campaigns there.
 
 	•	Investigate why Seattle lags behind and explore local trends or customer preferences to improve reach.
-
-**3. Address Underperformers:**
    
 	•	Fortune Cookie and Sugar may need either reformulation, rebranding, or promotional offers to increase their appeal.
 
-
-**3.	Scale What Worked in 2020:**
-
-	•	Analyze what drove the revenue jump in 2020—new campaigns, pricing changes, product introductions?
+	•	Analyze what drove the revenue jump in 2020— new campaigns, pricing changes, product introductions?
 
 	•	Scale those efforts while continuously measuring ROI.
-
-
-**4.	Customer Retention:**
-
-	•	With 700 customers, analyze repeat vs. new customers. Focus on retention strategies for top-value segments, possibly using loyalty programs.
  
+ 
+**Dashboard**
+![COOKIES](https://github.com/user-attachments/assets/75436b58-3342-42ef-ab99-36d1b9bb7e67)
+
 
 
 
