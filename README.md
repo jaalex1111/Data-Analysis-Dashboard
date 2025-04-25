@@ -40,9 +40,9 @@
 
 	•	Insight: Revenue significantly increased in 2020, suggesting growth or successful sales efforts.
 
-2. **Customer Base:
+2. **Customer Base:**
    
-	•	Total Customers: 700**
+	•	Total Customers: 700
 
 	•	Top Cities by Customer Count:
 
