@@ -29,6 +29,7 @@
 **Key Insights:**
 
 **1. Revenue Overview:**
+
 	•	Total Revenue: $4.69M
 
 	•	Revenue by Year:
@@ -40,6 +41,7 @@
 	•	Insight: Revenue significantly increased in 2020, suggesting growth or successful sales efforts.
 
 2. **Customer Base:
+   
 	•	Total Customers: 700**
 
 	•	Top Cities by Customer Count:
