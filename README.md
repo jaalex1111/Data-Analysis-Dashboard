@@ -1,6 +1,7 @@
 **Cookies Sales Data Analysis ( Dashboard creation using Power Bi)**
 
 **Questions (KPI’s)**
+
 •	Total Revenue Generated
 
 •	Total Number of customers
@@ -18,6 +19,7 @@
 •	Profit by product
 
 **Process**
+
 •	Data cleaning using Power query
 
 •	Data modelling to merge tables
@@ -37,14 +39,15 @@
 
 	•	Insight: Revenue significantly increased in 2020, suggesting growth or successful sales efforts.
 
-3. **Customer Base:
+2. **Customer Base:
 	•	Total Customers: 700**
 
 	•	Top Cities by Customer Count:
 
 	•	Green Bay leads with 206 customers, followed by Huntington (156).
 
-**3**. Product Performance:****
+**3. Product Performance:**
+
 	•	Best Performing by Units & Revenue:
  
 	•	Chocolate Chip dominates in both units sold and revenue.
@@ -58,6 +61,7 @@
 	•	Fortune Cookie brings in only $0.08M.
 
 **4. Revenue Distribution by City:**
+
 	•	Top Revenue-Generating Cities:
  
 	•	Green Bay (30.51%)
