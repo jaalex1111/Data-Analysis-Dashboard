@@ -86,8 +86,7 @@
 	•	Scale those efforts while continuously measuring ROI.
  
  
-**Dashboard**
-![COOKIES](https://github.com/user-attachments/assets/75436b58-3342-42ef-ab99-36d1b9bb7e67)
+
 
 
 
