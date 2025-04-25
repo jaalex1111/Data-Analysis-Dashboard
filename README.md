@@ -26,9 +26,9 @@
 
 •	Data visualization
 
-****Key Insights:**
+**Key Insights:**
 
-**1. Revenue Overview:****
+**1. Revenue Overview:**
 	•	Total Revenue: $4.69M
 
 	•	Revenue by Year:
