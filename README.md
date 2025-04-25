@@ -26,9 +26,9 @@
 
 •	Data visualization
 
-**Key Insights:
+****Key Insights:**
 
-1. Revenue Overview:**
+**1. Revenue Overview:****
 	•	Total Revenue: $4.69M
 
 	•	Revenue by Year:
@@ -52,9 +52,9 @@
  
 	•	Chocolate Chip dominates in both units sold and revenue.
  
-       •	Fortune Cookie and Sugar are underperformers
+        •	Fortune Cookie and Sugar are underperformers
   
-	**•	Profit by Product:**
+        •	Profit by Product:
  
 	•	Chocolate Chip again leads with $1.01M in profit.
  
